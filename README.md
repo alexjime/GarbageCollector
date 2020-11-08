@@ -40,8 +40,8 @@
 <img src="https://user-images.githubusercontent.com/43433753/98465005-be701a80-2209-11eb-86e2-08dab6023a81.png" width="90%"></img>
 
 ### 대행 - 매칭 후 서비스
-<img src="https://user-images.githubusercontent.com/43433753/98465626-8cf94e00-220d-11eb-8600-d6f6703718bb.png width="90%"></img>
-<img src="https://user-images.githubusercontent.com/43433753/98465625-8bc82100-220d-11eb-84a3-724998c142dd.png width="90%"></img>
+<img src="https://user-images.githubusercontent.com/43433753/98465626-8cf94e00-220d-11eb-8600-d6f6703718bb.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/43433753/98465625-8bc82100-220d-11eb-84a3-724998c142dd.png" width="90%"></img>
 
 ### 고객 - 후기 작성
 <img src="https://user-images.githubusercontent.com/43433753/98465006-c039de00-2209-11eb-8fba-718befc801e8.png" width="90%"></img>
