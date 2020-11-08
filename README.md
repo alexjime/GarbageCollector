@@ -27,11 +27,11 @@
 <img src="https://user-images.githubusercontent.com/43433753/98464984-ae583b00-2209-11eb-867c-e429a2cfe6c9.png" width="90%"></img>
 
 ### 대행 - 대행 제안 
-<img src="https://user-images.githubusercontent.com/43433753/98464989-b31cef00-2209-11eb-9a12-6509d7c26f64.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464990-b44e1c00-2209-11eb-96c4-ce1b0c1798e7.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464991-b4e6b280-2209-11eb-9c6d-53997bab907f.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464992-b4e6b280-2209-11eb-8ba8-d94a97ed761b.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464993-b57f4900-2209-11eb-9a41-a9f28cf728a4.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/43433753/98464989-b31cef00-2209-11eb-9a12-6509d7c26f64.png" width="90%"></img>
 
 ### 고객 - 매치화면
 <img src="https://user-images.githubusercontent.com/43433753/98465000-bc0dc080-2209-11eb-8e2f-bcf7107c80e3.png" width="90%"></img>
