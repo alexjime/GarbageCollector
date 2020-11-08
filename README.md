@@ -20,7 +20,6 @@
 <img src="https://user-images.githubusercontent.com/43433753/98465222-15c2ba80-220b-11eb-8220-5241b83aff5b.png" width="90%"></img>
 
 ### 고객 - 분리수거 서비스 신청 
-<img src="https://user-images.githubusercontent.com/43433753/98464978-abf5e100-2209-11eb-89ac-66be03b323f7.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464979-ad270e00-2209-11eb-8387-0fa16d730adf.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464981-ad270e00-2209-11eb-9ffa-2c33e3b52c3c.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/43433753/98464982-adbfa480-2209-11eb-8258-0f5683de47ac.png" width="90%"></img>
